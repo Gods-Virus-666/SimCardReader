@@ -6,7 +6,7 @@ Class=MEDIA
 ClassGUID={4d36e96c-e325-11ce-bfc1-08002be10318}
 provider=%ProviderName%
 ;;LayoutFile=layout.inf, layout1.inf, layout2.inf
-DriverVer=03/16/2010,6.12.8.2144
+DriverVer=03/15/2010,7.12.8.2144
 CatalogFile.ntx86=cm108x86.cat
 CatalogFile.ntamd64=cm108x64.cat
 
