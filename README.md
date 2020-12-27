@@ -1,2 +1,2 @@
 # SimCardReader
-Because what is the world with out open source
+Because what is the world without open source
